@@ -37,7 +37,7 @@
     }
   },
   "peerDependencies": {
-    "bubbleup-plugin-build-rollup": "^0.0.1"
+    "bubbleup-plugin-build-rollup": "<1"
   },
   "devDependencies": {
     "commitizen": "^2.8.5",
